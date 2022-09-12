@@ -1,0 +1,1 @@
+Motivasi saya mengikuti course ini adalah untuk belajar cara membuat service Backend untuk aplikasi. Karena saya sedang mengembangakna sebuah aplikasi dan membutuhkan Backend untuk menjalankan app tersebut. 

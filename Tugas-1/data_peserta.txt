@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp Nodejs Adonis Backend
+1. Nama: Almanik B
+2. Email: almanik.work@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Github: https://github.com/llassingan/
+5. Akun Telegram: https://t.me/etedadd

@@ -9,5 +9,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.post('/register',karyawannya.register)
+router.get('/karyawan',karyawannya.ambilsemua)
+router.get('/login',karyawannya.login)
 
 module.exports = router;

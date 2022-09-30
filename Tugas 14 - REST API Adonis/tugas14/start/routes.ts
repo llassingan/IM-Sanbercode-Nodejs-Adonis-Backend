@@ -26,6 +26,8 @@ Route.get('/', async () => {
   return { hello: 'world' }
 })
 
-Route.get('/post','PostsController.index');
+// Route.get('/post','PostsController.index');
 
-Route.post('/venues','ValuesController.kirim');
+// Route.post('/venues','ValuesController.kirim');
+
+Route.resource('venues','VenuesController').apiOnly()
